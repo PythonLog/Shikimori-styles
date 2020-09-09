@@ -1,0 +1,53 @@
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_4mob.css");
+body:after {
+  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786);
+}
+
+.l-footer:after {
+  content: "*Monika*";
+  display: none !important;
+}
+
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: normal;
+  }
+}
+
+.shikista {
+  color: white;
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 0, 204, 177;
+    --light-color: 0, 255, 217;
+    --dark-color: 0, 145, 255;
+    --bright-color: 0, 255, 238;
+    --dull-color: 133, 224, 201;
+    --input-color: 1, 223, 138;
+    --hover-bottoms-1: 18, 43, 37;
+    --buttoms-color: 31, 71, 61;
+    --hover-buttoms-2: 81, 107, 6;
+    --very-high-rating: 0, 255, 238;
+    --high-rating: 0, 199, 235;
+    --average-rating: 28, 160, 217;
+    --small-rating: 0, 123, 255;
+    --time-filled: 0, 255, 225;
+    --time-empty: 0, 189, 176;
+    --anime-inprocess: 0, 226, 230;
+    --anime-complete: 0, 154, 250;
+    --manga-inprocess: 0, 226, 230;
+    --manga-complete: 0, 145, 255;
+    --hover-color: 0, 255, 191;
+    --shadows-color: 0, 76, 255;
+    --block-color: 0, 0, 0;
+    --menu-back: 0, 0, 0;
+    --nick-cover: 29, 156, 165;
+    --popup-color: 0, 20, 20;
+    --hundred: 1;
+  }
+}

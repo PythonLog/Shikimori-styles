@@ -3,11 +3,11 @@
 @import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_3.css");
 @import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_4mob.css");
 body:after {
-  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786);
+  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786); /*Вставте ссылку на фоновое изображение*/
 }
 
 .l-footer:after {
-  content: "*Monika*";
+  content: "**";
   display: none !important;
 }
 

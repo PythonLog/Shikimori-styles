@@ -2,12 +2,20 @@
 @import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_2.css");
 @import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_3.css");
 @import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_4mob.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/q04_mark_module_for_posters.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/q07_ava_screen_center_addon.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-01_anime-manga_0.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-02_person_0.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-03_person_1.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-04_quick-access-panel_0.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-05_slider_0.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/cosmo-library/q10-06_mega-slider_0.css");
 body:after {
-  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786); /*Вставте ссылку на фоновое изображение*/
+  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786); /*Вставте ссылку на своё изображение*/
 }
 
 .l-footer:after {
-  content: "**";
+  content: "*Cosmos*";
   display: none !important;
 }
 
@@ -23,31 +31,31 @@ body:after {
 
 @media screen and (min-width: 1px) {
   html:root {
-    --white-color: 0, 204, 177;
-    --light-color: 0, 255, 217;
-    --dark-color: 0, 145, 255;
-    --bright-color: 0, 255, 238;
-    --dull-color: 133, 224, 201;
-    --input-color: 1, 223, 138;
-    --hover-bottoms-1: 18, 43, 37;
-    --buttoms-color: 31, 71, 61;
-    --hover-buttoms-2: 81, 107, 6;
-    --very-high-rating: 0, 255, 238;
-    --high-rating: 0, 199, 235;
-    --average-rating: 28, 160, 217;
-    --small-rating: 0, 123, 255;
-    --time-filled: 0, 255, 225;
-    --time-empty: 0, 189, 176;
-    --anime-inprocess: 0, 226, 230;
-    --anime-complete: 0, 154, 250;
-    --manga-inprocess: 0, 226, 230;
-    --manga-complete: 0, 145, 255;
-    --hover-color: 0, 255, 191;
-    --shadows-color: 0, 76, 255;
-    --block-color: 0, 0, 0;
-    --menu-back: 0, 0, 0;
-    --nick-cover: 29, 156, 165;
-    --popup-color: 0, 20, 20;
+    --white-color: 149, 216, 249;
+    --light-color: 172, 194, 234;
+    --dark-color: 133, 157, 214;
+    --bright-color: 131, 177, 255;
+    --dull-color: 104, 117, 152;
+    --input-color: 72, 105, 156;
+    --hover-bottoms-1: 20, 31, 64;
+    --buttoms-color: 25, 38, 72;
+    --hover-buttoms-2: 3, 157, 252;
+    --very-high-rating: 0, 98, 255;
+    --high-rating: 54, 127, 221;
+    --average-rating: 28, 65, 176;
+    --small-rating: 4, 38, 139;
+    --time-filled: 33, 56, 123;
+    --time-empty: 12, 22, 58;
+    --anime-inprocess: 17, 85, 212;
+    --anime-complete: 25, 109, 245;
+    --manga-inprocess: 17, 85, 212;
+    --manga-complete: 25, 109, 245;
+    --hover-color: 45, 186, 210;
+    --shadows-color: 89, 134, 181;
+    --block-color: 5, 5, 5;
+    --menu-back: 18, 23, 37;
+    --nick-cover: 35, 104, 113;
+    --popup-color: 0, 0, 0;
     --hundred: 1;
   }
 }

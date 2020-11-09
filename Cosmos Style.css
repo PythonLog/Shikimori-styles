@@ -28,7 +28,7 @@ body:after {
   html:root {
     --white-color: 149, 216, 249;
     --light-color: 172, 194, 234;
-    --dark-color: 133, 157, 214;
+    --dark-color: 0, 157, 214;
     --bright-color: 131, 177, 255;
     --dull-color: 104, 117, 152;
     --input-color: 72, 105, 156;

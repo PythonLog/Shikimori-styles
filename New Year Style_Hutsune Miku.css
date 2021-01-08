@@ -13,7 +13,7 @@
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/cosmo-library/q10-06_mega-slider_0.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/cosmo-library/q10-07_favourite-anime-manga_0.css");
 body:after {
-  background-image: url(https://i.ibb.co/yyBSjS5/Hutsune-Miku-New-Year-style-wallpaper-1920-1080.png);
+  background-image: url(https://i.ibb.co/yyBSjS5/Hutsune-Miku-New-Year-style-wallpaper-1920-1080.png); /*Укажите ссылку на предпочитаемые обои вместо ссылки в скобках*/
 }
 
 .l-footer:after {

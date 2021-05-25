@@ -9,7 +9,7 @@
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/cosmo-library/q10-05_slider_0.css");
 @import url("https://raw.githubusercontent.com/ed-main/ed-main.github.io/master/cssfiles/cosmo-library/q10-06_mega-slider_0.css");
 body:after {
-	background-image: url(https://i.ibb.co/P4v1bPY/Neko-Anime-center.png);
+	background-image: url(https://i.ibb.co/P4v1bPY/Neko-Anime-center.png); /*Укажите URL на своё изображение!*/
 }
 
 .l-footer:after {

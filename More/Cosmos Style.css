@@ -1,0 +1,56 @@
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_1.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_2.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_3.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/main_code_4mob.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/q03_history_bookmarks.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/q04_mark_module_for_posters.css");
+@import url("https://raw.githubusercontent.com/dragenge/dragenge.github.io/master/cssfiles/q08_alter_sitemenu.css");
+body:after {
+  background-image: url(http://oboihd-plus.ucoz.ru/_ph/13/813989778.jpg?1599305786); /*Вставте ссылку на изображение!*/
+}
+
+.l-footer:after {
+  content: "*Cosmos_V2*";
+  display: none !important;
+}
+
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: normal;
+  }
+}
+
+.shikista {
+  color: white;
+}
+
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 149, 216, 249;
+    --light-color: 172, 194, 234;
+    --dark-color: 0, 157, 214;
+    --bright-color: 131, 177, 255;
+    --dull-color: 104, 117, 152;
+    --input-color: 72, 105, 156;
+    --hover-bottoms-1: 20, 31, 64;
+    --buttoms-color: 25, 38, 72;
+    --hover-buttoms-2: 3, 157, 252;
+    --very-high-rating: 0, 98, 255;
+    --high-rating: 54, 127, 221;
+    --average-rating: 28, 65, 176;
+    --small-rating: 4, 38, 139;
+    --time-filled: 33, 56, 123;
+    --time-empty: 12, 22, 58;
+    --anime-inprocess: 0, 28, 128;
+    --anime-complete: 0, 35, 163;
+    --manga-inprocess: 0, 28, 128;
+    --manga-complete: 0, 35, 163;
+    --hover-color: 45, 186, 210;
+    --shadows-color: 89, 134, 181;
+    --block-color: 5, 5, 5;
+    --menu-back: 18, 23, 37;
+    --nick-cover: 0, 35, 163;
+    --popup-color: 0, 0, 0;
+    --hundred: 1;
+  }
+}

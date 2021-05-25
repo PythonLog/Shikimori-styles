@@ -14,7 +14,7 @@ body:after {
 
 .l-footer:after {
 	content: "*Dark Neko Center*";
-	display: none !imortant;
+	display: none !important;
 }
 
 @media screen and (min-width: 1px) {

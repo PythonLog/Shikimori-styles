@@ -29,33 +29,33 @@ body:after {
 
 @media screen and (min-width: 1px) {
 	html:root {
-	--white-color: 149, 216, 249;
-	--light-color: 192, 194, 234;
-	--white-color: 149, 216, 249;
-	--light-color: 192, 194, 234;
-	--dark-color: 0, 157, 214;
-	--bright-color: 131, 157, 255;
-	--dull-color: 95, 131, 231;
-	--input-color: 72, 105, 176;
-	--hover-bottoms-1: 20, 31, 64;
-	--buttoms-color: 25, 31, 72;
-	--hover-buttoms-2: 3, 157, 252;
-	--very-high-rating: 0, 98, 255;
-	--high-rating: 54, 127, 221;
-	--average-rating: 28, 65, 176;
-	--small-rating: 4, 38, 139;
-	--time-filled: 33, 56, 123;
-	--time-empty: 12, 22, 58;
-	--anime-inprocess: 0, 28, 128;
-	--anime-complete: 0, 35, 163;
-	--manga-inprocess: 0, 28, 128;
-	--manga-complete: 0, 35, 163;
-	--hover-color: 45, 186, 210;
-	--shadows-color: 19, 178, 231;
-  --block-color: 5, 5, 5;
-  --menu-back: 0, 0, 13;
-	--nick-cover: 0, 35, 163;
-	--popup-color: 0, 0, 0;
-	--hundred: 1;
+	  --white-color: 149, 216, 249;
+	  --light-color: 192, 194, 234;
+	  --white-color: 149, 216, 249;
+	  --light-color: 192, 194, 234;
+	  --dark-color: 0, 157, 214;
+	  --bright-color: 131, 157, 255;
+	  --dull-color: 95, 131, 231;
+	  --input-color: 72, 105, 176;
+	  --hover-bottoms-1: 20, 31, 64;
+	  --buttoms-color: 25, 31, 72;
+	  --hover-buttoms-2: 3, 157, 252;
+	  --very-high-rating: 0, 98, 255;
+	  --high-rating: 54, 127, 221;
+	  --average-rating: 28, 65, 176;
+	  --small-rating: 4, 38, 139;
+	  --time-filled: 33, 56, 123;
+	  --time-empty: 12, 22, 58;
+	  --anime-inprocess: 0, 28, 128;
+	  --anime-complete: 0, 35, 163;
+	  --manga-inprocess: 0, 28, 128;
+	  --manga-complete: 0, 35, 163;
+	  --hover-color: 45, 186, 210;
+	  --shadows-color: 19, 178, 231;
+    --block-color: 5, 5, 5;
+    --menu-back: 0, 0, 13;
+	  --nick-cover: 0, 35, 163;
+	  --popup-color: 0, 0, 0;
+	  --hundred: 1;
 	}
 }
